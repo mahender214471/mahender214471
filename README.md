@@ -1,8 +1,15 @@
-- 👋 Hi, I’m mahender rajput an full stake web developer in node.js .
-Lived in sirsa haryana (india ) , currenty work as full stake developer on frelancing .
-- 👀 I’m interested in made products which help other developer ans users 
 
-<!---
-mahender214471/mahender214471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Mahender rajput! 👋
+
+
+## 🚀 About Me
+I'm a [nodeJs](https://nodejs.org/en/) developer.
+
+
+## 🛠 Skills
+Javascript, HTML5, CSS , reactjs , nodeJs , expressJs , HapiJs , mongodb  
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahender-rajput-9ba900229/)
